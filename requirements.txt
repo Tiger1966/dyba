@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+mysql-connector-python
+bcrypt
+pytest
+httpx
+locust
+pytest-asyncio
+pydantic-settings

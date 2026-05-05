@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.log
+.env
+uploads/
+.vscode/
+.idea/
+*.wav
+*.mp4
+*.sql
+!db_design.sql
